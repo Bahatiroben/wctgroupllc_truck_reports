@@ -1,0 +1,1 @@
+export { ExpenseView } from './Expense.view'

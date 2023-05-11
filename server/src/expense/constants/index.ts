@@ -1,0 +1,1 @@
+export const EXPENSE_MODEL = 'EXPENSE_MODEL';

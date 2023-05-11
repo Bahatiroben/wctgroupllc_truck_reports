@@ -1,0 +1,18 @@
+.modal-full {
+    width: 95%;
+    margin: auto;
+}
+.modal-medium {
+    width: 60%;
+    margin: auto;
+}
+.modal-small {
+    width: 40%;
+    margin: auto;
+    min-height: 20vh;
+}
+
+.modal-extra-large {
+    width: 99%;
+    margin: auto;
+}
